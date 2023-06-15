@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun setSwipe() {
         binding.refreshLayout.setOnRefreshListener {
-            checkForInternetAndStart()
+            if (binding.gameCV.visibility == View.GONE) checkForInternetAndStart()
         }
     }
 
