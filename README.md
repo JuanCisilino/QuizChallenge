@@ -33,7 +33,7 @@ El juego incluye las siguientes características y bibliotecas:
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/JuanCisilino/QuizChallenge.git`
 2. Abre el proyecto en Android Studio.
 3. Compila y ejecuta la aplicación en tu dispositivo o emulador Android.
 
