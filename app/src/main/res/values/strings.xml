@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizChallenge</string>
+
+    <string name="no_internet">No hay internet..\nHaz un swipe cuando vuelva..</string>
+    <string name="error">Error</string>
+
+    <string name="a">A.</string>
+    <string name="b">B.</string>
+    <string name="c">C.</string>
+    <string name="d">D.</string>
+    <string name="next">Continuar</string>
+    <string name="again">Intenta de Nuevo</string>
+    <string name="results">Resultado</string>
+    <string name="result">Has conseguido %d respuestas correctas</string>
+    <string name="result1">Has conseguido %d respuesta correcta</string>
+</resources>
