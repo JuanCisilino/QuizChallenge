@@ -37,6 +37,8 @@ El juego incluye las siguientes características y bibliotecas:
 2. Abre el proyecto en Android Studio.
 3. Compila y ejecuta la aplicación en tu dispositivo o emulador Android.
 
+**Disponible APK en variante Debug debido a que este desarrollo se realizo para un Challenge**
+
 ## Dependencias
 
 - Hilt: [enlace a la documentación](https://dagger.dev/hilt/)
